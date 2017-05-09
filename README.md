@@ -182,3 +182,4 @@ yarn start
 
 # Licensing
 Vault-UI is licensed under BSD 2-Clause. See [LICENSE](https://github.com/djenriquez/vault-ui/blob/master/LICENSE) for the full license text.
+
