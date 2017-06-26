@@ -22,7 +22,7 @@ const supported_auth_backend_types = [
     'radius',
     'aws-ec2',
     'userpass',
-    'aws'
+    'aws',
     'okta'
 ]
 
